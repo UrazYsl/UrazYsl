@@ -8,7 +8,7 @@ CS @ UofT • Web/Infra-focused. Currently shipping **Kami** (game server hostin
 - 📫 urazysl@gmail.com
 
 **Featured**
-- Kami — Web · Responsive site with pricing, FAQ, status, order form · [Live](http://YOUR-HOST) · [Code](https://github.com/YOUR-USER/kami-web)
-- Kami — API · `/api/status`, `/api/order`, systemd deploy · [Code](https://github.com/YOUR-USER/kami-api)
+- Kami — Web · Responsive site with pricing, FAQ, status, order form · [Live](http://PLCEHOLDER) · [Code](https://github.com/UrazYsl/kami-hosting-web)
+- Kami — API · `/api/status`, `/api/order`, systemd deploy · [Code](https://github.com/UrazYsl/kami-hosting-api)
 
 **Stack:** `HTML` `CSS` `JavaScript` `Node.js` `Express` `Linux` `Nginx` `GitHub Actions`
