@@ -3,7 +3,7 @@
 CS @ UofT • Web/Infra-focused. Currently shipping **Kami** (game server hosting).
 
 - 🔭 Building: **Kami** — web (HTML/CSS/JS) + API (Node/Express, Nginx, CI/CD)
-- 🌱 Learning: modern frontend (a11y/perf) & Linux server ops
+- 🌱 Learning: Dockers, Kubernetes & Linux server ops
 - 💡 Interests: web infrastructure, game servers, distributed systems
 - 📫 urazysl@gmail.com
 
