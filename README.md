@@ -1,8 +1,8 @@
 # Hi, I’m Uraz
 
-CS @ UofT • Web/Infra-focused. Currently shipping **Kami** (game server hosting).
+CS @ UofT • Web/Infra-focused. Currently shipping **Abyss** (game server hosting).
 
-- 🔭 Building: **Kami** — web (HTML/CSS/JS) + API (Node/Express, Nginx, CI/CD)
+- 🔭 Building: **Abyss** — web (HTML/CSS/JS) + API (Node/Express, Nginx, CI/CD)
 - 🌱 Learning: Dockers, Kubernetes & Linux server ops
 - 💡 Interests: web infrastructure, game servers, distributed systems
 - 📫 urazysl@gmail.com
