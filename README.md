@@ -2,13 +2,15 @@
 
 CS @ UofT • Web/Infra-focused. Currently shipping **Abyss** (game server hosting).
 
-- 🔭 Building: **Abyss** — web (HTML/CSS/JS) + API (Node/Express, Nginx, CI/CD)
-- 🌱 Learning: Dockers, Kubernetes & Linux server ops
-- 💡 Interests: web infrastructure, game servers, distributed systems
+- 🔭 Building: **Personal Budgeting App** — Android (Kotlin) ↔ self-hosted REST API
+- 🌱 Learning: PSQL, FastAPI & Linux server ops
+- 💡 Interests: backend systems, infrastructure, self-hosting, distributed systems
 - 📫 urazysl@gmail.com
 
 **Featured**
-- Abyss — Web · Responsive site with pricing, FAQ, status, order form · [Live](http://PLCEHOLDER) · [Code](https://github.com/UrazYsl/kami-hosting-web)
-- Abyss — API · `/api/status`, `/api/order`, systemd deploy · [Code](https://github.com/UrazYsl/kami-hosting-api)
+- **Personal Budgeting App** — Android client + self-hosted REST API  
+  Native Android app (Kotlin) connected to a REST API running on a personal Ubuntu server.  
+  Deployed behind Nginx with HTTPS via Cloudflare.  
+  🔗 [Code](https://github.com/UrazYsl/budgeting-app)
 
-**Stack:** `HTML` `CSS` `JavaScript` `Node.js` `Express` `Linux` `Nginx` `GitHub Actions`
+**Stack:** `Python` `Java`  `PostgreSQL`  `Linux` `REST APIs`  `GitHub Actions`  `HTML/CSS/JS`
