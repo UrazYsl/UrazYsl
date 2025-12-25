@@ -1,6 +1,6 @@
 # Hi, I’m Uraz
 
-CS @ UofT • Web/Infra-focused. Currently shipping **Abyss** (game server hosting).
+CS @ UofT • Web/Infra-focused. Currently shipping **Personal Budgeting App**.
 
 - 🔭 Building: **Personal Budgeting App** — Android (Kotlin) ↔ self-hosted REST API
 - 🌱 Learning: PSQL, FastAPI & Linux server ops
