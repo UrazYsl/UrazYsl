@@ -3,7 +3,7 @@
 CS @ UofT • Web/Infra-focused. Currently shipping **Personal Budgeting App**.
 
 - 🔭 Building: **Personal Budgeting App** — Android (Kotlin) ↔ self-hosted REST API
-- 🌱 Learning: PSQL, FastAPI & Linux server ops
+- 🌱 Learning: FastAPI & Linux server ops
 - 💡 Interests: backend systems, infrastructure, self-hosting, distributed systems
 - 📫 urazysl@gmail.com
 
