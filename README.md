@@ -13,4 +13,4 @@ CS @ UofT • Web/Infra-focused. Currently shipping **Personal Budgeting App**.
   The backend is developed and tested locally, with deployment to a personal Ubuntu server planned. 
   🔗 [Code](https://github.com/UrazYsl/budgeting-app)
 
-**Stack:** `Python` · `Kotlin` · `PostgreSQL` · `Linux` · `FastAPI` · `REST APIs`
+**Stack:** `Python` · `Kotlin` · `PostgreSQL` · `Docker` · `Linux` · `FastAPI` · `REST APIs`
