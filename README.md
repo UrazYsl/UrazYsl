@@ -13,4 +13,5 @@ CS @ UofT • Web/Infra-focused, getting into quantum computing. Currently build
     [Code](https://github.com/UrazYsl/Budget)
 - **RanQ** (in progress): open source Godot plugin for quantum-powered procedural generation. Generates enemies, items, and maps from qubit measurements, with swappable backends: classical, local simulator, or real quantum hardware.
     [Code](https://github.com/UrazYsl/RanQ)
-**Stack:** Python · Qiskit · FastAPI · GDScript · JavaScript · Alpine.js · PostgreSQL · Docker · Linux
+
+  **Stack:** Python · Qiskit · FastAPI · GDScript · JavaScript · Alpine.js · PostgreSQL · Docker · Linux
