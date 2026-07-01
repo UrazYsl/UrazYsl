@@ -9,7 +9,7 @@ CS @ UofT • Web/Infra-focused, getting into quantum computing. Currently build
 
 **Featured**
 
-- **Budget** (in progress): self-hosted budgeting web app with a FastAPI backend, PostgreSQL, and Alpine.js frontend. Runs on a home Ubuntu server via Docker.
+- **Budget**: self-hosted budgeting web app with a FastAPI backend, PostgreSQL, and Alpine.js frontend. Runs on a home Ubuntu server via Docker.
     [Code](https://github.com/UrazYsl/Budget)
 - **RanQ** (in progress): open source Godot plugin for quantum-powered procedural generation. Generates enemies, items, and maps from qubit measurements, with swappable backends: classical, local simulator, or real quantum hardware.
     [Code](https://github.com/UrazYsl/RanQ)
